@@ -1,0 +1,17 @@
+[33mcommit c3dbb994d54c25bbf08b00d3a7d5796f9bc8717f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: oq <quantinvestment@163.com>
+Date:   Tue Apr 30 01:03:47 2024 +0800
+
+    creating layouts
+
+[33mcommit 45a15f7abbc7bb350ab3ebf23532bcee44613a90[m
+Author: optionquant <unlimitedpassion@163.com>
+Date:   Mon Apr 29 17:23:47 2024 +0800
+
+    optimizing fonts and images
+
+[33mcommit c76764578b87bc927fbee6352a787f184802f2fb[m
+Author: optionquant <unlimitedpassion@163.com>
+Date:   Fri Apr 26 10:44:46 2024 +0800
+
+    Initial commit from Create Next App
